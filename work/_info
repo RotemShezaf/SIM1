@@ -1,0 +1,108 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/SimSifratiot/SIM1/sim1_files
+vmux2
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1660979281
+!i10b 1
+!s100 BBJ80[2oQ=LmF5=BCRbBQ3
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IiQNd`oVmiLXkzG>A2V=3J1
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1660933041
+8mux2.sv
+Fmux2.sv
+!i122 23
+L0 2 31
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1660979281.000000
+!s107 mux2.sv|
+!s90 -reportprogress|300|mux2.sv|
+!i113 1
+Z7 tCvgOpt 0
+vmux4
+R1
+R2
+!i10b 1
+!s100 T7UYGb9PhK7]eHUATVC@^3
+R3
+IhK]IE`0C33@TLI=;`j^Pa0
+R4
+S1
+R0
+w1660932994
+8mux4.sv
+Fmux4.sv
+!i122 24
+L0 2 20
+R5
+r1
+!s85 0
+31
+R6
+!s107 mux4.sv|
+!s90 -reportprogress|300|mux4.sv|
+!i113 1
+R7
+vmux4_test
+R1
+R2
+!i10b 1
+!s100 80]SFK<R2@BcO2SlT^5NJ2
+R3
+IDd2=V`j[5d_MQOI9Z`MW43
+R4
+S1
+R0
+w1660979274
+8mux4_test.sv
+Fmux4_test.sv
+!i122 25
+L0 2 36
+R5
+r1
+!s85 0
+31
+R6
+!s107 mux4_test.sv|
+!s90 -reportprogress|300|mux4_test.sv|
+!i113 1
+R7
+vNAND2
+R1
+R2
+!i10b 1
+!s100 nV_[P_8gj[]?i<@HDENLl2
+R3
+IlXO459gEcm;]5]K[b9[821
+R4
+S1
+R0
+w1660836262
+8libcells/NAND2.sv
+Flibcells/NAND2.sv
+!i122 22
+L0 1 12
+R5
+r1
+!s85 0
+31
+R6
+!s107 libcells/NAND2.sv|
+!s90 -reportprogress|300|libcells/NAND2.sv|
+!i113 1
+R7
+n@n@a@n@d2

@@ -1,0 +1,8 @@
+cd C:/SimSifratiot/SIM1/sim1_files
+vlog libcells/NAND2.sv
+vlog mux2.sv
+vlog mux4.sv
+vlog mux4_test.sv
+vsim mux4_test
+add wave sim:/mux4_test/uut/*
+run 30 ps
